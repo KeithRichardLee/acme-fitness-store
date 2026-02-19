@@ -8,7 +8,8 @@ set -euo pipefail
 #   - You are already logged in (cf login) against Hub (not fundation API)
 #     eg cf login -a tanzu-hub.keithlee.ie
 #   - Updated the four variables below
-#   - Have Postgres, Valkey, GenAI, Application Services, SSO services available in the marketplace
+#   - Have Postgres, Valkey, Ai Services, Application Services, API Gateway, 
+#     and SSO services available in the marketplace
 # ==================================================================================================
 
 AppsDomain="apps.tanzu.keithlee.ie"
