@@ -8,5 +8,5 @@ applications:
   routes:
     - route: acme-cart.apps.internal
   env:
-    AUTH_URL: "https://acme-fitness.apps.tas.vmtanzu.com"
+    AUTH_URL: "https://acme-fitness.apps.tanzu.keithlee.ie"
     CART_PORT: 8080

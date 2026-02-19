@@ -3,7 +3,7 @@
     {
       "title": "products-route",
       "description": "/products endpoint",
-      "uri": "http://acme-fitness-catalog.vmtanzu.net",
+      "uri": "http://acme-fitness-catalog.apps.tanzu.keithlee.ie",
       "predicates": [
         "Path=/products",
         "Method=GET"
@@ -19,7 +19,7 @@
     {
       "title": "products-id-route",
       "description": "/products/id endpoint",
-      "uri": "http://acme-fitness-catalog.vmtanzu.net",
+      "uri": "http://acme-fitness-catalog.apps.tanzu.keithlee.ie",
       "predicates": [
         "Path=/products/{id}",
         "Method=GET"
@@ -34,7 +34,7 @@
     {
       "title": "catalogliveness-route",
       "description": "/products/id endpoint",
-      "uri": "http://acme-fitness-catalog.vmtanzu.net",
+      "uri": "http://acme-fitness-catalog.apps.tanzu.keithlee.ie",
       "predicates": [
         "Path=/catalogliveness",
         "Method=GET"
@@ -50,7 +50,7 @@
     {
       "title": "catalogliveness-route",
       "description": "/products/id endpoint",
-      "uri": "http://acme-fitness-catalog.vmtanzu.net",
+      "uri": "http://acme-fitness-catalog.apps.tanzu.keithlee.ie",
       "predicates": [
         "Path=/static/images/{id}",
         "Method=GET"

@@ -11,4 +11,4 @@ applications:
     routes:
       - route: acme-order.apps.internal
     env:
-      AcmeServiceSettings__AuthUrl: "https://acme-fitness.apps.vcf3.vmtanzu.com" # To be replaced with your Gateway url in TAS
+      AcmeServiceSettings__AuthUrl: "https://acme-fitness.apps.tanzu.keithlee.ie" # To be replaced with your Gateway url in TAS

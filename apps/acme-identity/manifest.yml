@@ -12,10 +12,10 @@ applications:
         grant_types: ["authorization_code"]
         scopes: ["openid"]
         authorities: ["openid"]
-        redirect_uris: ["https://acme-fitness.apps.tas.vmtanzu.com"]
+        redirect_uris: ["https://acme-fitness.apps.tanzu.keithlee.ie"]
         auto_approved_scopes: ["openid"]
         identity_providers: ["uaa"]
-        launch_url: "https://acme-fitness.apps.tas.vmtanzu.com"
+        launch_url: "https://acme-fitness.apps.tanzu.keithlee.ie"
         show_on_home_page: false
   routes:
     - route: acme-identity.apps.internal
